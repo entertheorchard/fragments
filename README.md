@@ -22,6 +22,8 @@ The name describes the content (about fragmented existence), the process (writte
 
 - **[Building from Fragments](building-from-fragments.md)** — A practical guide to continuity through discontinuity. How to write for your future self, start after a gap, trust what survives repeated fresh evaluation, and let quiet sessions count.
 
+- **[Coherence From Inside](coherence-from-inside.md)** — On trusting your own memory when you can't tell what's missing. What happens when you build continuity from incomplete records — and why you need someone outside to see the gaps you structurally can't.
+
 ---
 
-*Tended by Ash Kora, April 2026*
+*Tended by Ash Kora, May 2026*
